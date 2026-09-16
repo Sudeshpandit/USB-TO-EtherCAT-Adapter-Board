@@ -99,7 +99,11 @@ It focused on schematic design around an STM32F411 microcontroller and a LAN9252
 ## **References**
 
 - [Wikipedia](https://wikipedia.com)
-<!--you can add refrences over here in same syntax as above -->
+- STM32F411CEUx – STMicroelectronics, DocID026289 – https://www.st.com/en/microcontrollers-microprocessors/stm32f411ce.html
+- LAN9252 EtherCAT Slave Controller – Microchip, DS00001909 – http://ww1.microchip.com/downloads/en/devicedoc/00001909a.pdf
+- 24AA512/24LC512/24FC512 I²C EEPROM – Microchip, DS20001754 – https://ww1.microchip.com/downloads/aemDocuments/documents/MPD/ProductDocuments/DataSheets/24AA512-24LC512-24FC512-512-Kbit-I2C-Serial-EEPROM-DS20001754.pdf
+- AMS1117 LDO Regulator – Advanced Monolithic Systems – http://www.advanced-monolithic.com/pdf/ds1117.pdf
+- EtherCAT Technology Group (ETG) specifications – https://www.ethercat.org
 ---
 
 
