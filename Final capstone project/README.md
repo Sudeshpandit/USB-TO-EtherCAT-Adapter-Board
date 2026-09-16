@@ -47,7 +47,7 @@
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 ## **Table of Contents**
-- [Course Learning](#course-learning-to-be-edited-by-student)
+- [Course Learning](#course-learning-to-be-edited-by-studen)
 - [Projects Completed](#projects-completed)
 - [Project Introduction](#project-introduction)
 - [Technologies Used](#technologies-used)
@@ -133,9 +133,9 @@ During my internship period, I participated in multiple community-oriented activ
 ### **Impact / Contribution**
 
 <!-- add the location where you given -->
-Tree Plantation Drive – Participated by planting trees and contributing to environmental improvement.
-Helping Elder Citizens – Assisted two elderly individuals with simple daily tasks and provided support where needed.
-These activities, alongside the core PCB design work, strengthened my sense of social responsibility and community engagement, reflecting SURE Trust's focus on holistic development beyond just technical skills.
+- Tree Plantation Drive – Participated by planting trees and contributing to environmental improvement.
+- Helping Elder Citizens – Assisted two elderly individuals with simple daily tasks and provided support where needed.
+- These activities, alongside the core PCB design work, strengthened my sense of social responsibility and community engagement, reflecting SURE Trust's focus on holistic development beyond just technical skills.
 ### **Photos**
 
 <!-- add your photos below -->
@@ -164,7 +164,7 @@ The internship certificate serves as an official acknowledgment of the successfu
 
 ## **Acknowledgments**
 
-I would like to thank my mentor Mr.Paramesh Kumar and the team at SURE Trust for their guidance during this internship project, the USB-to-EtherCAT Adapter Board. Thanks also to my family and friends for their support. This project gave me valuable hands-on experience in embedded systems, EtherCAT communication, and PCB design in KiCad.
+I would like to thank my mentor [Mr.Paramesh Kumar](https://www.linkedin.com/in/paramesh-kumar-c-ab6b65244) and the team at [SURE Trust](https://www.suretrustforruralyouth.com/) for their guidance during this internship project, the USB-to-EtherCAT Adapter Board. Thanks also to my family and friends for their support. This project gave me valuable hands-on experience in embedded systems, EtherCAT communication, and PCB design in KiCad.
 
 - [Prof. Radhakumari Challa](https://www.linkedin.com/in/prof-radhakumari-challa-a3850219b) , Executive Director and Founder - [SURE Trust](https://www.suretrustforruralyouth.com/)
 
