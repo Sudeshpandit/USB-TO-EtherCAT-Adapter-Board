@@ -164,7 +164,7 @@ The internship certificate serves as an official acknowledgment of the successfu
 
 ## **Acknowledgments**
 
-<!-- you can add Acknowledgments over here in same syntax as below . eg trainer name , company name , role etc -->
+I would like to thank my mentor Mr.Paramesh Kumar and the team at SURE Trust for their guidance during this internship project, the USB-to-EtherCAT Adapter Board. Thanks also to my family and friends for their support. This project gave me valuable hands-on experience in embedded systems, EtherCAT communication, and PCB design in KiCad.
 
 - [Prof. Radhakumari Challa](https://www.linkedin.com/in/prof-radhakumari-challa-a3850219b) , Executive Director and Founder - [SURE Trust](https://www.suretrustforruralyouth.com/)
 
